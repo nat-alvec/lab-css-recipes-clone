@@ -7,3 +7,42 @@ html {
   font-family: 'Open Sans', sans-serif;
   font-size: 18px
 }
+
+html {
+  margin: auto;
+}
+
+header {
+  background-image: url(/lab-css-recipes-clone/french-soup/images/soup.jpg);
+  display: block;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 70vh; 
+  width: 100vw; 
+}
+
+header h1 {
+  color: white;
+  font-size: 120px;
+  text-align: center;
+  padding-top: 14%;
+}
+
+main {
+  padding: 8% 10%;
+}
+
+#section1 {
+  font-size: 42px;
+}
+
+#section1 img {
+  display: block;
+  margin-left: 30%;
+}
+
+#section2 img {
+  display: block;
+  margin-left: 30%;
+}
