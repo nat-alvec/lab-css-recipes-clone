@@ -13,7 +13,7 @@ html {
 }
 
 header {
-  background-image: url(/lab-css-recipes-clone/french-soup/images/soup.jpg);
+  background-image: url(../images/soup.jpg);
   display: block;
   background-position: center;
   background-size: cover;
